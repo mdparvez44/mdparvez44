@@ -140,4 +140,53 @@ A document question-answering system that uses embeddings and Retrieval-Augmente
 
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
+</p>
+
+## 🎓 Education
+
+**CMR Engineering College**  
+Bachelor of Technology — Computer Science and Engineering (AI & ML)  
+2022 – 2026 | CGPA: 8.1
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdparvez44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdparvez44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdparvez44&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mdparvez44">
+    <img src="https://img.shields.io/badge/GitHub-mdparvez44-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-parvez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Parvez-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://mohammedpavez.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  💡 Building intelligent applications. Exploring Generative AI. Turning ideas into working software.
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%"/>
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Footer Animation" width="100%"/>
+</div>
