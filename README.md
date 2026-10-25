@@ -2,10 +2,6 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mohammed%20Parvez&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Full%20Stack%20Engineer%20%7C%20Generative%20AI%20Developer&descSize=18&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="./assets/Parvez.png" alt="Mohammed Parvez Profile Picture" width="160" height="160" style="border-radius: 50%; object-fit: cover;"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Mohammed Parvez</h1>
 
