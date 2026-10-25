@@ -1,6 +1,15 @@
-# Mohammed Parvez | AI Full Stack Engineer
 
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mohammed%20Parvez&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Full%20Stack%20Engineer%20%7C%20Generative%20AI%20Developer&descSize=18&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<!-- Profile Picture -->
+<p align="center">
+  <img src="./assets/Parvez.png" alt="Mohammed Parvez Profile Picture" width="160" height="160" style="border-radius: 50%; object-fit: cover;"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Mohammed Parvez</h1>
+
+<h3 align="center">AI Full Stack Engineer | Generative AI Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mdparvez44">
@@ -12,17 +21,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer Banner" width="100%"/>
 </p>
 
+<!-- About Me -->
 ## 👨‍💻 About Me
 
-Hi, I'm **Mohammed Parvez**, an AI Full Stack Engineer and Generative AI Developer with a background in Computer Science and Engineering (AI & ML).
+I'm Mohammed Parvez, an AI Full Stack Engineer and Generative AI Developer with a background in Computer Science and Engineering (AI & ML).
 
 - 🤖 Building intelligent applications using Large Language Models (LLMs), RAG, and AI-powered workflows.
-- 🌐 Developing full-stack applications with React, Next.js, Node.js, and Python.
+- 🌐 Developing full-stack applications using React, Next.js, Node.js, and Python.
 - 🧠 Exploring machine learning, embeddings, semantic search, and AI agents.
-- ⚙️ Building end-to-end solutions, from responsive frontend interfaces to backend APIs and database integration.
+- ⚙️ Building end-to-end solutions, from frontend interfaces to backend APIs and database integration.
 - 🎓 B.Tech in Computer Science and Engineering (AI & ML), CMR Engineering College.
 - 🚀 Interested in developing practical AI solutions that solve real-world problems.
 
+<!-- Focus Areas -->
 ## 🧠 My Focus Areas
 
 - Generative AI & Large Language Models
@@ -33,9 +44,11 @@ Hi, I'm **Mohammed Parvez**, an AI Full Stack Engineer and Generative AI Develop
 - REST API Development & Database Design
 - AI-Powered Applications
 
+<!-- Featured Projects -->
 ## 🚀 Featured Projects
 
 ### 🤖 AI Career Agent
+
 An AI-powered job and internship automation platform designed to streamline the application process.
 
 - Intelligent job matching and personalized application recommendations.
@@ -44,15 +57,17 @@ An AI-powered job and internship automation platform designed to streamline the 
 - Application tracking and multi-platform workflow architecture.
 
 ### 🏛️ AI Butler Portfolio
+
 An interactive AI-powered portfolio featuring a virtual butler that helps visitors explore projects, skills, and professional achievements.
 
 - Conversational AI for natural-language interaction.
 - AI-assisted portfolio exploration.
 - Responsive interface with interactive experiences.
-- Integration of intelligent assistant capabilities into a personal portfolio.
+- Intelligent assistant capabilities integrated into a personal portfolio.
 
 ### 💬 Ambiguity-Aware AI Chat & Clarification System
-An LLM-powered chat application that detects ambiguous queries and resolves them using context-aware clarification.
+
+An LLM-powered chat application that detects ambiguous queries and resolves them through context-aware clarification.
 
 - State-based pipeline for handling different ambiguity levels.
 - Context-aware clarification using conversation history.
@@ -60,20 +75,22 @@ An LLM-powered chat application that detects ambiguous queries and resolves them
 - Built using Groq, FastAPI, React, and PostgreSQL.
 
 ### 📄 AI Document Q&A System
-A document question-answering system that uses embeddings and Retrieval-Augmented Generation concepts to improve information retrieval.
+
+A document question-answering system using embeddings and Retrieval-Augmented Generation concepts.
 
 - Document-based question answering.
 - Embedding-based retrieval and semantic search.
 - Prompt-based generation of structured responses.
 - Designed to reduce manual search time and improve answer relevance.
 
+<!-- Experience -->
 ## 💼 Experience
 
 ### AI & ML Developer — ShadowFox
 *March 2025*
 
 - Developed image-tagging machine learning models, achieving **92% accuracy** on a dataset of 5,000+ images.
-- Performed preprocessing, feature engineering, and cross-validation on 10,000+ samples.
+- Performed data preprocessing, feature engineering, and cross-validation on 10,000+ samples.
 - Improved model generalization by 20%.
 - Optimized data-processing pipelines, reducing processing time by 30%.
 - Contributed to ML workflows, improving training reproducibility by 25%.
@@ -86,9 +103,11 @@ A document question-answering system that uses embeddings and Retrieval-Augmente
 - Contributed to frontend development and cross-platform compatibility.
 - Presented 3+ technical project demonstrations to peers and mentors.
 
+<!-- Languages and Tools -->
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>&nbsp;&nbsp;
@@ -98,6 +117,7 @@ A document question-answering system that uses embeddings and Retrieval-Augmente
 </p>
 
 <h3 align="center">Frontend Development</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40"/>&nbsp;&nbsp;
@@ -107,6 +127,7 @@ A document question-answering system that uses embeddings and Retrieval-Augmente
 </p>
 
 <h3 align="center">Backend Development</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40"/>&nbsp;&nbsp;
@@ -115,8 +136,8 @@ A document question-answering system that uses embeddings and Retrieval-Augmente
 </p>
 
 <h3 align="center">AI & Machine Learning</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40"/>&nbsp;&nbsp;
@@ -131,6 +152,7 @@ A document question-answering system that uses embeddings and Retrieval-Augmente
 </p>
 
 <h3 align="center">Databases</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>&nbsp;&nbsp;
@@ -139,6 +161,7 @@ A document question-answering system that uses embeddings and Retrieval-Augmente
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
+
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>&nbsp;&nbsp;
@@ -146,23 +169,34 @@ A document question-answering system that uses embeddings and Retrieval-Augmente
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
 </p>
 
+<!-- Education -->
 ## 🎓 Education
 
-**CMR Engineering College**  
+**CMR Engineering College**
+
 Bachelor of Technology — Computer Science and Engineering (AI & ML)  
 2022 – 2026 | CGPA: 8.1
 
+<!-- GitHub Stats -->
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdparvez44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdparvez44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdparvez44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdparvez44&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdparvez44&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdparvez44&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+<!-- Connect -->
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -181,10 +215,11 @@ Bachelor of Technology — Computer Science and Engineering (AI & ML)
   💡 Building intelligent applications. Exploring Generative AI. Turning ideas into working software.
 </p>
 
+<!-- GitHub Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%"/>
 </picture>
 
 <div align="center">
